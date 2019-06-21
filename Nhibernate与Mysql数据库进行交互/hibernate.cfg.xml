@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-configuration xmlns="urn:nhibernate-configuration-2.2">
+  <session-factory>
+    <property name="connection.provider">NHibernate.Connection.DriverConnectionProvider</property>
+    <!--数据库版本是啥-->
+    <property name="dialect">NHibernate.Dialect.MySQL5Dialect</property>
+    <!--使用什么数据库-->
+    <property name="connection.driver_class">NHibernate.Driver.MySqlDataDriver</property>
+    <!--连接数据库的字符串-->
+    <property name="connection.connection_string">Server=localhost;Database=mygamedb;User ID=root;Password=;</property>
+
+    <!--在控制台不显示sql语句-->
+    <property name="show_sql">false</property>
+  </session-factory>
+</hibernate-configuration>

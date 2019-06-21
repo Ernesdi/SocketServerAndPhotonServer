@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "MySQL数据库操作/1.0.0": {
+        "dependencies": {
+          "MySql.Data": "6.9.9.0"
+        },
+        "runtime": {
+          "MySQL数据库操作.dll": {}
+        }
+      },
+      "MySql.Data/6.9.9.0": {
+        "runtime": {
+          "MySql.Data.dll": {
+            "assemblyVersion": "6.9.9.0",
+            "fileVersion": "6.9.9.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MySQL数据库操作/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data/6.9.9.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

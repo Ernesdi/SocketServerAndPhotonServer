@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="SiKiedu"
+                   namespace="SiKiedu.Model">
+
+  <class name="User" table="users">
+    <!--主键的配置格式比较特别，id是配置主键映射，column是数据库中的属性名，
+    type是Nhibernate中的类型，不是c#类型也不是数据库类型。其他直接写property就行了-->
+    <id name="Id" column="id" type="Int32">
+      <!--generator是自动增长,native是使用本地数据的自动增长，mysql是auto...-->
+      <generator class="native"></generator>
+    </id>
+    <property name="Username" column="username" type="String"></property>
+    <property name="Password" column="password" type="String"></property>
+    <property name="Registerdate" column="registerdate" type="Date"></property>
+  </class>
+
+</hibernate-mapping>

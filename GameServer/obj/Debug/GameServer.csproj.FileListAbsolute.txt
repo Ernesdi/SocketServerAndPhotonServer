@@ -1,0 +1,15 @@
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\GameServer\bin\Debug\GameServer.exe.config
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\GameServer\bin\Debug\GameServer.exe
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\GameServer\bin\Debug\GameServer.pdb
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\GameServer\bin\Debug\Common.dll
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\GameServer\bin\Debug\MySql.Data.dll
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\GameServer\bin\Debug\Common.pdb
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\GameServer\obj\Debug\GameServer.exe
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\GameServer\obj\Debug\GameServer.pdb
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\GameServer\bin\Debug\GameServer.exe.manifest
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\GameServer\bin\Debug\GameServer.application
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\GameServer\obj\Debug\GameServer.exe.manifest
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\GameServer\obj\Debug\GameServer.application

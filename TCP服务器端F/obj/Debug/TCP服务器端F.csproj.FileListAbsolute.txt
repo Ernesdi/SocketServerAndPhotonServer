@@ -1,0 +1,6 @@
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端F\bin\Debug\TCP服务器端F.exe.config
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端F\bin\Debug\TCP服务器端F.exe
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端F\bin\Debug\TCP服务器端F.pdb
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端F\obj\Debug\TCP服务器端F.csproj.CoreCompileInputs.cache
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端F\obj\Debug\TCP服务器端F.exe
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端F\obj\Debug\TCP服务器端F.pdb

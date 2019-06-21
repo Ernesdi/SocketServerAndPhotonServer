@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <StartupObject></StartupObject>
+    <ApplicationIcon />
+    <Win32Resource />
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Users\HasKu\Desktop\</OutputPath>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+
+</Project>

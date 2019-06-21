@@ -1,0 +1,9 @@
+E:\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.dll
+E:\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.pdb
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MyGameServer\obj\Debug\MyGameServer.csproj.CoreCompileInputs.cache
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MyGameServer\obj\Debug\MyGameServer.dll
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MyGameServer\obj\Debug\MyGameServer.pdb
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MyGameServer\obj\Debug\MyGameServer.csproj.CopyComplete
+E:\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\log4net.config
+E:\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\hibernate.cfg.xml
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MyGameServer\obj\Debug\MyGameServer.csprojAssemblyReference.cache

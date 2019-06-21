@@ -1,0 +1,13 @@
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MySQL数据库操作\bin\Debug\netcoreapp2.1\MySQL数据库操作.deps.json
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MySQL数据库操作\bin\Debug\netcoreapp2.1\MySQL数据库操作.runtimeconfig.json
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MySQL数据库操作\bin\Debug\netcoreapp2.1\MySQL数据库操作.runtimeconfig.dev.json
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MySQL数据库操作\bin\Debug\netcoreapp2.1\MySQL数据库操作.dll
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MySQL数据库操作\bin\Debug\netcoreapp2.1\MySQL数据库操作.pdb
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MySQL数据库操作\bin\Debug\netcoreapp2.1\MySql.Data.dll
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MySQL数据库操作\obj\Debug\netcoreapp2.1\MySQL数据库操作.csprojAssemblyReference.cache
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MySQL数据库操作\obj\Debug\netcoreapp2.1\MySQL数据库操作.csproj.CoreCompileInputs.cache
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MySQL数据库操作\obj\Debug\netcoreapp2.1\MySQL数据库操作.AssemblyInfoInputs.cache
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MySQL数据库操作\obj\Debug\netcoreapp2.1\MySQL数据库操作.AssemblyInfo.cs
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MySQL数据库操作\obj\Debug\netcoreapp2.1\MySQL数据库操作.csproj.CopyComplete
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MySQL数据库操作\obj\Debug\netcoreapp2.1\MySQL数据库操作.dll
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\MySQL数据库操作\obj\Debug\netcoreapp2.1\MySQL数据库操作.pdb

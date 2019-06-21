@@ -1,0 +1,9 @@
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\数据库操作\bin\Debug\数据库操作.exe.config
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\数据库操作\bin\Debug\数据库操作.exe
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\数据库操作\bin\Debug\数据库操作.pdb
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\数据库操作\bin\Debug\MySql.Data.dll
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\数据库操作\obj\Debug\数据库操作.csprojAssemblyReference.cache
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\数据库操作\obj\Debug\数据库操作.csproj.CoreCompileInputs.cache
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\数据库操作\obj\Debug\数据库操作.csproj.CopyComplete
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\数据库操作\obj\Debug\数据库操作.exe
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\数据库操作\obj\Debug\数据库操作.pdb

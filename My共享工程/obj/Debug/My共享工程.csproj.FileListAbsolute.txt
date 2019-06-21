@@ -1,0 +1,5 @@
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\My共享工程\bin\Debug\MyCommon.dll
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\My共享工程\bin\Debug\MyCommon.pdb
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\My共享工程\obj\Debug\My共享工程.csproj.CoreCompileInputs.cache
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\My共享工程\obj\Debug\MyCommon.dll
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\My共享工程\obj\Debug\MyCommon.pdb

@@ -1,0 +1,11 @@
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端\obj\Debug\netcoreapp2.1\TCP服务器端.csprojAssemblyReference.cache
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端\obj\Debug\netcoreapp2.1\TCP服务器端.csproj.CoreCompileInputs.cache
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端\obj\Debug\netcoreapp2.1\TCP服务器端.AssemblyInfoInputs.cache
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端\obj\Debug\netcoreapp2.1\TCP服务器端.AssemblyInfo.cs
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端\bin\Debug\netcoreapp2.1\TCP服务器端.deps.json
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端\bin\Debug\netcoreapp2.1\TCP服务器端.runtimeconfig.json
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端\bin\Debug\netcoreapp2.1\TCP服务器端.runtimeconfig.dev.json
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端\bin\Debug\netcoreapp2.1\TCP服务器端.dll
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端\bin\Debug\netcoreapp2.1\TCP服务器端.pdb
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端\obj\Debug\netcoreapp2.1\TCP服务器端.dll
+E:\Unity3D\U3DCode\VSCode\直接利用socket tcp开发网络游戏\TCP服务器端\obj\Debug\netcoreapp2.1\TCP服务器端.pdb
